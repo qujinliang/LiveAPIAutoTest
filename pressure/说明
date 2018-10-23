@@ -1,0 +1,7 @@
+压力测试脚本包
+tree:
+1.async_model.py:异步多线程向url发起请求
+2.async_test.py: 异步多线程练习测试脚本
+3.pressureTestCode.py: 同步多线程向url发起请求
+4.pressureTestDemo.PY: 同步多线程脚本实例
+5.pressureTestViewtemPlate.py:同步多线程向URL发请求
